@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "my:blocks/letoltes",
+    "up": "my:blocks/letoltes",
+    "north": "my:blocks/letoltes",
+    "east": "my:blocks/letoltes",
+    "south": "my:blocks/letoltes",
+    "west": "my:blocks/letoltes",
+    "particle": "my:blocks/letoltes"
+  }
+}
